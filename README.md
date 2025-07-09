@@ -34,7 +34,6 @@ This project is ideal for:
 ##  Features
 
 -  **Trains a Fully Connected Neural Network** (2-layer NN)
--  **Draw on Canvas** and get real-time digit predictions
 -  **Upload 28x28 grayscale image** to recognize digits
 -  **Implements ReLU, Softmax, One-Hot Encoding, Backpropagation**
 -  **Prints model accuracy live during training**
@@ -68,17 +67,7 @@ cd Handwritten-Digit-Classifier-using-Neural-Network
 pip install numpy pandas matplotlib pillow scipy
 ```
 
-
-##  How to Use
-
-### Predict from Canvas (inside Notebook)
-
-- Draw any digit (0–9) using your mouse
-- Click **"Predict"** to get the digit label
-
 ### Predict from Image File
-
-Replace image path and run:
 
 ```python
 predict_digit_from_image("Testing_data/digit_0.png")
