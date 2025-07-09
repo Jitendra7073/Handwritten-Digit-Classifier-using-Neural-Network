@@ -2,7 +2,7 @@
 <center> 
 <h1> HANDWRITTEN DIGIT CLASSIFIER </h1>
 
-<i>Detect Digits Instantly from Drawings or Uploaded Images</i>
+<i>Detect Digits Instantly from Uploaded Images</i>
 
 **Built with the tools and technologies:**</center>
 
